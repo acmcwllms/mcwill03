@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{07D54D64-BECF-4D66-6504-530DBF92CDFB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/WordManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/WordManager.cs" Line="92" Column="70" />
+      <File FileName="Assets/Scripts/Word.cs" Line="37" Column="34" />
+      <File FileName="Assets/Scripts/WordGenerator.cs" Line="11" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
